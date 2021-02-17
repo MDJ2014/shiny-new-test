@@ -1,1 +1,2 @@
 This is the Feature1 description. Edited after commiting Feature 2.
+Favorite color is green.
