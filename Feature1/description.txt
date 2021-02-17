@@ -1,2 +1,2 @@
-This is the Feature1 description. Edited after commiting Feature 2.
+This is the Feature1 description. 
 Favorite color is CRIMSON.
